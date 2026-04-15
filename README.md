@@ -1,4 +1,4 @@
-# Computer Store Project
+# Computer Store Project (sản phẩm nhóm chưa hoàn thiện)
 
 ## Mô tả dự án
 
@@ -145,8 +145,7 @@ Dự án này được phát triển bởi [Tên của bạn] như một portfol
 
 ## Liên hệ
 
-- Email: [email của bạn]
-- LinkedIn: [link LinkedIn]
+- Email: vuduc022@gmail.com
 
 ## Giấy phép
 
